@@ -9,9 +9,12 @@ Results: Describe to Dana how someone might use the new webpage by walking her t
 
 In the updated version of her webpage, users can now type in the date, city, state, country or shape that relates to the UFO sighting they are interested in. For example, if someone was interested in UFO sightings in Benton, AR: They would type "AR" into "State" or "Benton" into "City". After typing, the user needs to hit Enter on their keyboard to filter the table below. If a user wants to delete one of the filters, they can delete the text in the filter box, and hit Enter to update the table with less filters. Most importantly, users can apply multiple filters at once, please see below.
 
+*Only one filter applied*
+![](https://github.com/jmalauss/UFOs/blob/main/us_filter_img.png)
+
+*More than one filter applied*
 ![](https://github.com/jmalauss/UFOs/blob/main/us_ar_filter_img.png)
 
-![](https://github.com/jmalauss/UFOs/blob/main/us_filter_img.png)
 
 Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 Deliverable 2 Requirements
