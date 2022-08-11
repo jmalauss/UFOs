@@ -23,5 +23,5 @@ In the updated version of her webpage, users can now type in the date, city, sta
 
 - One major drawback of this design is that filters are case sensitive. For example, if you type "AR" instead of "ar", there will be no results in the table because there is no value "AR" (in all caps).
 - Two recommendations for further development:
-1. example
+1. Aside from removing the case-sensitive nature of the filtering feature, an enhancement to this website would be reactive to each letter typed into the filters. For example: If I am in the process of searching for the city "Benton": As I type "b", the table will change to display only UFO sighting info for cities that start with "b". This is present in many websites with filters, and is helpful when trying to explore the results using filters.
 2. example
