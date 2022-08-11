@@ -19,7 +19,8 @@ In the updated version of her webpage, users can now type in the date, city, sta
 *More than one filter applied*
 ![](https://github.com/jmalauss/UFOs/blob/main/us_ar_filter_img.png)
 
-### Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+### Summary: 
+*In a summary statement, describe one drawback of this new design and two recommendations for further development.*
 
 - One major drawback of this design is that filters are case sensitive. For example, if you type "AR" instead of "ar", there will be no results in the table because there is no value "AR" (in all caps).
 - Two recommendations for further development:
