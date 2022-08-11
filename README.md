@@ -2,12 +2,12 @@
 
 
 ### Overview of Project: 
-#####*Explain the purpose of this analysis.*
+*Explain the purpose of this analysis.*
 
 The purpose of this analysis was to enhance the capabilities of the filter feature on Dana's webpage. Initially, users of the website were only able to filter the table of UFO sighting information by date. After our additions, the website is now able to filter by multiple criteria to better narrow down the search for information about specific UFO sightings.
 
 ### Results: 
-#####*Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.*
+*Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.*
 
 In the updated version of her webpage, users can now type in the date, city, state, country or shape that relates to the UFO sighting they are interested in. For example, if someone was interested in UFO sightings in Benton, AR: They would type "ar" into "State" or "benton" into "City". After typing, the user needs to hit Enter on their keyboard to filter the table below. If a user wants to delete one of the filters, they can delete the text in the filter box, and hit Enter to update the table with less filters. Most importantly, users can apply multiple filters at once, please see below.
 
