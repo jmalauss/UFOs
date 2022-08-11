@@ -22,7 +22,7 @@ In the updated version of her webpage, users can now type in the date, city, sta
 ### Summary: 
 *In a summary statement, describe one drawback of this new design and two recommendations for further development.*
 
-- One major drawback of this design is that filters are case sensitive. For example, if you type "AR" instead of "ar", there will be no results in the table because there is no value "AR" (in all caps).
-- Two recommendations for further development:
+- **One major drawback of this design** is that filters are case sensitive. For example, if you type "AR" instead of "ar", there will be no results in the table because there is no value "AR" (in all caps).
+- **Two recommendations for further development**:
 1. Aside from removing the case-sensitive nature of the filtering feature, an enhancement to this website would be reactive to each letter typed into the filters. For example: If I am in the process of searching for the city "Benton": As I type "b", the table will change to display only UFO sighting info for cities that start with "b" before I fully spell "Benton". When I type "Be", all cities starting with "Be-" will populate in the table below. This is present in many websites with filters, and is helpful when trying to explore the results using filters.
 2. Another feature that would be a great addition to this site is a search bar. The search bar would allow users to search the page for key words. If I only knew partial information about a UFO sighting (information that would most likely be present in the "Comments" column of the table), I could possibly find the UFO sighting I am looking for, with only very limited information, such as key words.
